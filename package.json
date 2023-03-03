@@ -1,0 +1,19 @@
+{
+  "name": "az-cloud-squad-nodejs-mdb",
+  "version": "1.0.0",
+  "description": "Friday, 10-Mar-2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninefyi/az-cloud-squad-nodejs-mdb.git"
+  },
+  "author": "@ninefyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninefyi/az-cloud-squad-nodejs-mdb/issues"
+  },
+  "homepage": "https://github.com/ninefyi/az-cloud-squad-nodejs-mdb#readme"
+}
